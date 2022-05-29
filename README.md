@@ -10,7 +10,7 @@
 - Split address into individual columns to highlight street address, city, and state.
 - Removed duplicate rows and deleted columns that were not significant.
 
-[Project 3 - Data Correlation of Music Industry dataset using Python]()
+[Project 3 - Data Correlation of Music Industry dataset using Python](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%203%20-%20Movie%20Industry%20Correlation.ipynb)
 - Created scatter plot of Budget vs Gross Earnings with line of regression
 - Assigned numeric value for each unique categorical value and created two-dimensional heat map showing correlation coefficient. 
 - Filtered out the correaltion coefficients that were higher than 0.5 
