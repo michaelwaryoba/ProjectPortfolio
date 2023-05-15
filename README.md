@@ -14,3 +14,8 @@
 - Created scatter plot of Budget vs Gross Earnings with line of regression
 - Assigned numeric value for each unique categorical value and created two-dimensional heat map showing correlation coefficient
 - Filtered out the correaltion coefficients that were higher than 0.5
+
+[Project 4 - Sales Dashboard using Power BI]()
+- Created seperate views for the sales dashboard and detialed table.
+- Created key performance indicators for the sales, profit, quantity, and discount values.
+- Included area and clustered column charts to display sales data over time. Effective in showing trends and patterns in data by emphasizing the cumulative value of a series of data points.
