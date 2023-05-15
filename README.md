@@ -15,7 +15,7 @@
 - Assigned numeric value for each unique categorical value and created two-dimensional heat map showing correlation coefficient
 - Filtered out the correaltion coefficients that were higher than 0.5
 
-[Project 4 - Sales Dashboard using Power BI]()
-- Created seperate views for the sales dashboard and detialed table.
+[Project 4 - Sales Dashboard using Power BI](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%204%20-%20Sales%20Dashboard%20View.pdf)
+- Created seperate views for the [sales dashboard](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%204%20-%20Sales%20Dashboard%20View.pdf) and [detialed table](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%204%20-%20Sales%20Detail%20View.pdf).
 - Created key performance indicators for the sales, profit, quantity, and discount values.
 - Included area and clustered column charts to display sales data over time. Effective in showing trends and patterns in data by emphasizing the cumulative value of a series of data points.
