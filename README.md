@@ -20,7 +20,7 @@
 - Created key performance indicators for the sales, profit, quantity, and discount values.
 - Included area and clustered column charts to display sales data over time. Effective in showing trends and patterns in data by emphasizing the cumulative value of a series of data points.
 
-[Project 5 - Importing data into MySQL database using Python scirpt}(https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%205%20-%20Data%20Import%20(Python))
+[Project 5 - Importing data into MySQL database using Python scirpt](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%205%20-%20Data%20Import%20(Python))
 
 This is a python script that parses through csv, xls,and xlsx files and determines the data types based on sql data types. After parsing the file, it then creates an SQL file that contains an SQL Statement that creates a table based on the datatypes that were determined. Here is a step-by-step process of how to run it: 
 
