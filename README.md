@@ -21,12 +21,18 @@
 - Included area and clustered column charts to display sales data over time. Effective in showing trends and patterns in data by emphasizing the cumulative value of a series of data points.
 
 Project 5 - Importing data into MySQL database using Python scirpt
+
 This is a python script that parses through csv, xls,and xlsx files and determines the data types based on sql data types. After parsing the file, it then creates an SQL file that contains an SQL Statement that creates a table based on the datatypes that were determined. Here is a step-by-step process of how to run it: 
 
 Step 1: In a teminal, run "python create_table_sql.py"
+
 Step 2: A window pops up asking the user to select a csv, xls, or xlsx file. Select a file. If no file is selected the scripts ends.
+
 Step 3: The user is prompted to enter the name of the database that the table will be made for. The user is prevented from entering blank data.
+
 Step 4: The user is prompted to enter the name of the table that will will be created. The user is prevented from entering blank data.
+
 Step 5: The file has been parsed, and a new sql file is created in the directory where the script was run from.
+
 Step 6: Open the SQL file and execute the statement.
 
