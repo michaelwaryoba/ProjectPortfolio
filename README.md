@@ -17,7 +17,7 @@
 
 [Project 4 - Sales Dashboard using Power BI](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%204%20-%20Sales%20Dashboard%20View.pdf)
 - Created seperate views for the [sales dashboard](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%204%20-%20Sales%20Dashboard%20View.pdf) and [detialed table](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%204%20-%20Sales%20Detail%20View.pdf).
-- Created key performance indicators for the sales, profit, quantity, and discount values.
+- Created key performance indicators for the sales, profit, quantity, and discount.
 - Included area and clustered column charts to display sales data over time. Effective in showing trends and patterns in data by emphasizing the cumulative value of a series of data points.
 
 [Project 5 - Importing data into MySQL database using Python script](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%205%20-%20Data%20Import%20(Python))
