@@ -2,7 +2,7 @@
 [Project 6 - Pendo API Data Extraction for Bronze Layer](https://github.com/michaelwaryoba/ProjectPortfolio/blob/main/Project%206%20-%20Pendo%20API%20Data%20Extraction%20(PySpark).ipynb)
 - Developed python script to send get and post requests to various Pendo API endpoints to pull in raw data into an Azure storage account used for the bronze layer
 - This was part of a bigger initiative to migrate all dbt models to Azure Databricks
-- Created a databricks job for bronze layer script that's gets triggered on a schedule to ensure up to data is always in storage
+- Created a Databricks job for bronze layer script that's gets triggered on a schedule to ensure up to data is always in storage
 
 [Project 5 - Importing data into MySQL database using Python script](https://github.com/michaelwaryoba/ProjectPortfolio/blob/main/Project%205%20-%20Data%20Import.py)
 
