@@ -4,7 +4,7 @@
 - This was part of a bigger initiavtive to migrate all dbt models to Azure Databricks
 - Created a databricks job for bronze layer script that's gets triggered on a schedule to ensure up to data is always in storage
 
-[Project 5 - Importing data into MySQL database using Python script](https://github.com/michaelwaryoba/ProjectPorfolio/blob/main/Project%205%20-%20Data%20Import%20(Python))
+[Project 5 - Importing data into MySQL database using Python script](https://github.com/michaelwaryoba/ProjectPortfolio/blob/main/Project%205%20-%20Data%20Import.py)
 
 This is a python script that parses through csv, xls,and xlsx files and determines the data types based on sql data types. After parsing the file, it then creates an SQL file that contains an SQL Statement that creates a table based on the datatypes that were determined. Here is a step-by-step process of how to run it: 
 
