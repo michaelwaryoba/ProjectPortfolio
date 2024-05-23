@@ -1,5 +1,5 @@
 # Michael Waryoba Project Portfolio 
-[Project 6 - Payrix API Data Extraction for Bronze Layer]()
+[Project 6 - Payrix API Data Extraction for Bronze Layer](https://github.com/michaelwaryoba/ProjectPortfolio/blob/main/Project%206%20-%20Payrix%20API%20Data%20Extraction%20(PySpark).ipynb)
 - Developed python script to pull in raw data from various Payrix endpoints and store it an Azure storage account for the bronze layer.
 - This was part of a bigger initiative to migrate all dbt models to Azure Databricks.
 - Created a Databricks job for bronze layer script that gets triggered on a schedule to ensure up to date data is always in storage.
